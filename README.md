@@ -1,6 +1,5 @@
-# ProjecetUAS
+# ProjectUAS
 
-# ProjecetUAS
 
 # Tugas-Akhir-Uas
 Tugas ini dibuat untuk memenuhi syarat pada UAS
@@ -9,7 +8,7 @@ Tugas ini dibuat untuk memenuhi syarat pada UAS
 
 **Struktur Package & Module**
 
-![package](fotoUAS/1.png)
+![package](gambar/1.png)
 
 **Penjelasan:**
 
