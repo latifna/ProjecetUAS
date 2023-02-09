@@ -118,23 +118,3 @@ while True:
 ### Hapus data
 
 ![output-hapus-data](gambar/hapus.png)
-
-
-
-Deploy
-
-```
-git pull
-```
-
-if (any changes on /root)
-
-```
-git add . && git commit -m "update" && git push origin main
-```
-
-Update all changes
-
-```
-./deploy.sh
-```
