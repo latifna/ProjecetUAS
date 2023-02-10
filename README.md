@@ -4,7 +4,7 @@
 # Tugas-Akhir-Uas
 Tugas ini dibuat untuk memenuhi syarat pada UAS
 
-# Video Tutorial dan Demo Program Menampilkan Daftar Nilai Mahasiswa
+### Video Tutorial dan Demo Program Menampilkan Daftar Nilai Mahasiswa
 https://www.youtube.com/watch?v=j8XaquN4-04
 
 # UAS Bahasa Pemrograman
